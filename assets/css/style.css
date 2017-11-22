@@ -1,0 +1,28 @@
+
+.divider{
+	margin: 35px 25px;
+}
+/* .front-page{
+	background: url(assets/images/bg1.jpg) no-repeat center center fixed;
+	background-size: cover;	
+} */
+.footer{
+	margin: 0 auto;
+	text-align:center;
+	color: #9C9C99;
+}
+.logInput{
+	padding:2px;
+}
+.katNames{
+	font-family: 'Lobster', cursive;
+	color: #FBFEFF;
+	font-size: 25px;
+}
+.top_nav{
+	 /* top: 150px;  */
+	position: fixed !important;
+	width:100% !important;
+	
+   z-index: 1000
+}
